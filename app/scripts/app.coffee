@@ -11,4 +11,4 @@ angular.module('angularOpenLayersExample', ['ngRoute'])
       .when '/from_coords_in_template',
         templateUrl: 'views/from_coords.html'
       .otherwise
-        redirectTo: '/from_coords'
+        redirectTo: '/from_coords_in_template'
