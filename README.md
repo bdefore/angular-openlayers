@@ -12,6 +12,7 @@ To test locally, install Node and run:
 
 ```shell
 npm install -g grunt
+npm install
 bower install
 grunt server
 ```
