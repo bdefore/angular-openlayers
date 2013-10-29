@@ -23,4 +23,5 @@ http://127.0.0.1:9000/#/from_coords_in_template
 Other routes include:
 
 http://127.0.0.1:9000/#/from_name
+
 http://127.0.0.1:9000/#/from_url?lat=42.68875914122395&lon=17.689577342419913&zoom=5
